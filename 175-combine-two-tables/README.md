@@ -1,1 +1,2 @@
 - Use left join
+- For pandas: pd.merge(person, address, on='personId', how='left')
