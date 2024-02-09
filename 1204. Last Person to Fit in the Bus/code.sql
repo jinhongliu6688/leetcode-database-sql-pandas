@@ -15,3 +15,21 @@ ORDER BY
     Q1.turn DESC
 LIMIT
     1
+
+# Write your MySQL query statement below
+
+SELECT
+    person_name
+FROM (
+    SELECT
+        *,
+        SUM(weight) OVER(ORDER BY turn) AS sum_weight
+    FROM
+        Queue
+) AS table1
+WHERE
+    sum_weight <= 1000
+ORDER BY
+    sum_weight DESC
+LIMIT
+    1
