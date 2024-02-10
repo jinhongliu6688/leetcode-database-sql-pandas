@@ -24,3 +24,16 @@ FROM (
 ) AS temp_table_2
 WHERE
     salary_order = 2
+
+# Write your MySQL query statement below
+
+SELECT
+IFNULL (
+    (SELECT
+        DISTINCT salary
+    FROM
+        Employee
+    ORDER BY
+        salary DESC
+    LIMIT
+        1 OFFSET 1), NULL) AS SecondHighestSalary
