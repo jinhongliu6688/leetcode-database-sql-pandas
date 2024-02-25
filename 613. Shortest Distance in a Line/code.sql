@@ -20,3 +20,16 @@ LIMIT
     1
 OFFSET 
     1
+
+# Write your MySQL query statement below
+
+SELECT 
+    MIN(distance) AS shortest
+FROM (
+    SELECT 
+        @distance := if(@previous IS NULL, NULL, x - @previous) AS distance, @previous := x
+    FROM
+        Point, (SELECT @distance := NULL, @previous := NULL) AS temp_1
+    ORDER BY
+        x ASC
+) temp_2
