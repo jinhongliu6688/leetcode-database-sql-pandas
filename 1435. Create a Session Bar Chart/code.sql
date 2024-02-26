@@ -35,3 +35,43 @@ ON
     table_1.bin = table_2.bin
 GROUP BY
     table_1.bin
+
+# Write your MySQL query statement below
+
+SELECT 
+    "[0-5>" AS bin,
+    COUNT(*) AS total
+FROM
+    Sessions
+WHERE
+    duration < 5 * 60 AND duration >= 0
+
+UNION
+
+SELECT 
+    "[5-10>" AS bin,
+    COUNT(*) AS total
+FROM
+    Sessions
+WHERE
+    duration < 10 * 60 AND duration >= 5 * 60
+
+UNION
+
+SELECT 
+    "[10-15>" AS bin,
+    COUNT(*) AS total
+FROM
+    Sessions
+WHERE
+    duration < 15 * 60 AND duration >= 10 * 60
+
+UNION
+
+SELECT 
+    "15 or more" AS bin,
+    COUNT(*) AS total
+FROM
+    Sessions
+WHERE
+    duration >= 15 * 60
