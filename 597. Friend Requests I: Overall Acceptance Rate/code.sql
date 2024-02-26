@@ -10,6 +10,8 @@ SELECT
 FROM
     RequestAccepted
 
+# Write your MySQL query statement below
+
 SELECT (
     ROUND(
         IFNULL(
