@@ -11,3 +11,15 @@ LEFT JOIN
 ON
     Queries.id = NPV.id AND
     Queries.year = NPV.year
+
+# Write your MySQL query statement below
+
+SELECT
+    id,
+    year,
+    IFNULL(npv, 0) AS npv
+FROM
+    Queries
+LEFT JOIN
+    NPV
+USING(id, year)
