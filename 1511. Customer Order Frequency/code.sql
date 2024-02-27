@@ -42,3 +42,21 @@ FROM
 WHERE
     (customer_id, name) IN (SELECT * FROM jun) AND
     (customer_id, name) IN (SELECT * FROM jul)
+
+# Write your MySQL query statement below
+
+SELECT
+    c.customer_id,
+    c.name
+FROM
+    Customers c
+INNER JOIN
+    Orders o ON c.customer_id = o.customer_id
+INNER JOIN
+    Product p ON o.product_id = p.product_id
+GROUP BY
+    c.customer_id,
+    c.name
+HAVING
+    SUM(IF(LEFT(order_date, 7) = "2020-06", quantity*price, 0)) >= 100 AND
+    SUM(IF(LEFT(order_date, 7) = "2020-07", quantity*price, 0)) >= 100
