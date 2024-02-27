@@ -4,7 +4,7 @@ WITH jun AS (
     SELECT
         c.customer_id,
         c.name
-    FROm
+    FROM
     Customers c
     INNER JOIN
         Orders o ON c.customer_id = o.customer_id
@@ -21,7 +21,7 @@ jul AS (
     SELECT
         c.customer_id,
         c.name
-    FROm
+    FROM
     Customers c
     INNER JOIN
         Orders o ON c.customer_id = o.customer_id
