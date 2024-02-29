@@ -9,3 +9,13 @@ SELECT
     END AS triangle_type
 FROM
    Triangles 
+
+# Write your MySQL query statement below
+
+SELECT
+    IF(A + B <= C OR A + C <= B OR B + C <= A, "Not A Triangle", 
+        IF(A = B AND A = C AND B = C, "Equilateral", 
+            IF(A = B OR A = C OR B = C, "Isosceles", "Scalene")) 
+    ) AS triangle_type
+FROM
+   Triangles 
