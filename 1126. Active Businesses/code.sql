@@ -1,6 +1,10 @@
 # Write your MySQL query statement below
 
-WITH type_avg AS (
+SELECT
+    business_id
+FROM
+    Events e
+INNER JOIN (
     SELECT
         event_type,
         AVG(occurrences) average
@@ -8,16 +12,10 @@ WITH type_avg AS (
         Events
     GROUP BY
         event_type
-)
-SELECT
-    business_id
-FROM
-    Events e
-INNER JOIN
-    type_avg t
+) table_1
 ON
-    e.event_type = t.event_type
+    e.event_type = table_1.event_type
 GROUP BY
     business_id
 HAVING
-    SUM(IF(e.occurrences > t.average, 1, 0)) > 1
+    SUM(IF(e.occurrences > table_1.average, 1, 0)) > 1
