@@ -61,11 +61,11 @@ FROM (
     SELECT 
         project_id,
         employee_id,
-        dense_rank() over(partition by project_id order by experience_years desc) as rnk
+        dense_rank() over(partition by project_id order by experience_years desc) as ranking
     FROM
         Project
     INNER JOIN
         Employee USING (employee_id)
 ) temp
 WHERE
-    rnk = 1
+    ranking = 1
