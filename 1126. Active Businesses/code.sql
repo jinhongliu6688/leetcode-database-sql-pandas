@@ -12,10 +12,10 @@ INNER JOIN (
         Events
     GROUP BY
         event_type
-) average
+) temp
 ON
-    e.event_type = average.event_type
+    e.event_type = temp.event_type
 GROUP BY
     business_id
 HAVING
-    SUM(IF(e.occurrences > average.average, 1, 0)) > 1
+    SUM(IF(e.occurrences > temp.average, 1, 0)) > 1
