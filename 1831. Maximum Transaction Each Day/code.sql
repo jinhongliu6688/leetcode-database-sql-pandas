@@ -16,3 +16,22 @@ WHERE
     )
 ORDER BY
     1
+
+# Write your MySQL query statement below
+
+SELECT
+    transaction_id
+FROM
+    Transactions
+WHERE
+    (DATE(day), amount) IN (
+        SELECT
+            DATE(day),
+            MAX(amount) max_amount
+        FROM
+            Transactions
+        GROUP BY
+            DATE(day)
+    )
+ORDER BY
+    1
