@@ -6,19 +6,12 @@ SELECT
     o.order_id,
     o.order_date
 FROM
-    Customers c
-INNER JOIN
     Orders o
-ON
-    c.customer_id = o.customer_id
 RIGHT JOIN
     Products p
 ON
     o.product_id = p.product_id
-GROUP BY
-    p.product_id,
-    o.order_id
-HAVING
+WHERE
     (p.product_id, order_date) IN (
         SELECT
             p.product_id,
