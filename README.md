@@ -167,7 +167,7 @@ LeetCode Database questions progress of completion (To view my MySQL solutions, 
 | ✅ | 1445. Apples & Oranges | Medium | 
 | ✅ | 1454. Active Users | Medium | 
 | ✅ | 1459. Rectangles Area | Medium | 
-| | 1468. Calculate Salaries | Medium |
+| ✅ | 1468. Calculate Salaries | Medium |
 | ✅ | 1501. Countries You Can Safely Invest In | Medium | 
 | ✅ | 1532. The Most Recent Three Orders | Medium | 
 | ✅ | 1549. The Most Recent Orders for Each Product | Medium | 
