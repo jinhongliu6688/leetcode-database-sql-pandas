@@ -1,6 +1,13 @@
 # leetcode-database-sql-pandas
 
+My LeetCode profile: https://leetcode.com/ivan6688/
 
+My LeetCode Badges (Database): <br>
+<img width="300" alt="image" src="https://github.com/jinhongliu6688/leetcode-database-sql-pandas/assets/112588153/868c20b2-b534-48ec-8a76-4a1464b6ba8f"> ✅
+<br>
+<img width="300" alt="image" src="https://github.com/jinhongliu6688/leetcode-database-sql-pandas/assets/112588153/87296b85-8cf2-43de-99fa-03106f10b359"> ✅
+
+LeetCode Database questions progress of completion:
 | Solved   | Title                      | Difficulty |
 | -------- | -------------------------- | ---------- |
 | ✅ | 175. Combine Two Tables | Easy | | |
