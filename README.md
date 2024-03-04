@@ -103,3 +103,53 @@
 | | 1355. Activity Participants | Medium | 
 | | 1364. Number of Trusted Contacts of a Customer | Medium | 
 | | 1369. Get the Second Most Recent Activity | Hard | 
+| | 1378. Replace Employee ID With The Unique Identifier | Easy |
+| | 1384. Total Sales Amount by Year | Hard | 
+| | 1393. Capital Gain/Loss | Medium | 
+| | 1398. Customers Who Bought Products A and B but Not C | Medium | 
+| | 1407. Top Travellers | Easy | 
+| | 1412. Find the Quiet Students in All Exams | Hard | 
+| | 1421. NPV Queries | Easy | 
+| | 1435. Create a Session Bar Chart | Easy | 
+| | 1440. Evaluate Boolean Expression | Medium | 
+| | 1445. Apples & Oranges | Medium | 
+| | 1454. Active Users | Medium | 
+| | 1459. Rectangles Area | Medium | 
+| | 1468. Calculate Salaries | Medium | 
+| | 1479. Sales by Day of the Week | Hard | 
+| | 1484. Group Sold Products By The Date | Easy | 
+| | 1495. Friendly Movies Streamed Last Month | Easy | 
+| | 1501. Countries You Can Safely Invest In | Medium | 
+| | 1511. Customer Order Frequency | Easy | 
+| | 1517. Find Users With Valid E-Mails | Easy | 
+| | 1527. Patients With a Condition | Easy | 
+| | 1532. The Most Recent Three Orders | Medium | 
+| | 1543. Fix Product Name Format | Easy | 
+| | 1549. The Most Recent Orders for Each Product | Medium | 
+| | 1555. Bank Account Summary | Medium | 
+| | 1565. Unique Orders and Customers Per Month | Easy | 
+| | 1571. Warehouse Manager | Easy | 
+| | 1581. Customer Who Visited but Did Not Make Any Transactions | Easy | 
+| | 1587. Bank Account Summary II | Easy | 
+| | 1596. The Most Frequently Ordered Products for Each Customer | Medium | 
+| | 1607. Sellers With No Sales | Easy | 
+| | 1613. Find the Missing IDs | Medium | 
+| | 1623. All Valid Triplets That Can Represent a Country | Easy | 
+| | 1633. Percentage of Users Attended a Contest | Easy | 
+| | 1635. Hopper Company Queries I | Hard | 
+| | 1645. Hopper Company Queries II | Hard | 
+| | 1651. Hopper Company Queries III | Hard | 
+| | 1661. Average Time of Process per Machine | Easy | 
+| | 1667. Fix Names in a Table | Easy | 
+| | 1677. Product's Worth Over Invoices | Easy | 
+| | 1683. Invalid Tweets | Easy | 
+| | 1693. Daily Leads and Partners | Easy | 
+| | 1699. Number of Calls Between Two Persons | Medium | 
+| | 1709. Biggest Window Between Visits | Medium | 
+| | 1715. Count Apples and Oranges | Medium | 
+| | 1729. Find Followers Count | Easy | 
+| | 1731. The Number of Employees Which Report to Each Employee | Easy | 
+| | 1741. Find Total Time Spent by Each Employee | Easy | 
+| | 1747. Leetflex Banned Accounts | Medium | 
+| | 1757. Recyclable and Low Fat Products | Easy | 
+| | 1767. Find the Subtasks That Did Not Execute | Hard | 
