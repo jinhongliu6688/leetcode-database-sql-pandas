@@ -176,7 +176,7 @@ LeetCode Database questions progress of completion (To view my MySQL solutions, 
 | ✅ | 1613. Find the Missing IDs | Medium | 
 | ✅ | 1699. Number of Calls Between Two Persons | Medium | 
 | ✅ | 1709. Biggest Window Between Visits | Medium | 
-| | 1715. Count Apples and Oranges | Medium | 
+| ✅ | 1715. Count Apples and Oranges | Medium | 
 | ✅ | 1747. Leetflex Banned Accounts | Medium | 
 | ✅ | 1783. Grand Slam Titles | Medium | 
 | | 1811. Find Interview Candidates | Medium | 
