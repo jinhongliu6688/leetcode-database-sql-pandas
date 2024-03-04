@@ -153,3 +153,53 @@
 | | 1747. Leetflex Banned Accounts | Medium | 
 | | 1757. Recyclable and Low Fat Products | Easy | 
 | | 1767. Find the Subtasks That Did Not Execute | Hard | 
+| | 1777. Product's Price for Each Store | Easy | 
+| | 1783. Grand Slam Titles | Medium | 
+| | 1789. Primary Department for Each Employee | Easy | 
+| | 1795. Rearrange Products Table | Easy | 
+| | 1809. Ad-Free Sessions | Easy | 
+| | 1811. Find Interview Candidates | Medium | 
+| | 1821. Find Customers With Positive Revenue this Year | Easy | 
+| | 1831. Maximum Transaction Each Day | Medium | 
+| | 1841. League Statistics | Medium | 
+| | 1843. Suspicious Bank Accounts | Medium | 
+| | 1853. Convert Date Format | Easy | 
+| | 1867. Orders With Maximum Quantity Above Average | Medium | 
+| | 1873. Calculate Special Bonus | Easy | 
+| | 1875. Group Employees of the Same Salary | Medium | 
+| | 1890. The Latest Login in 2020 | Easy | 
+| | 1892. Page Recommendations II | Hard | 
+| | 1907. Count Salary Categories | Medium | 
+| | 1917. Leetcodify Friends Recommendations | Hard | 
+| | 1919. Leetcodify Similar Friends | Hard | 
+| | 1934. Confirmation Rate | Medium | 
+| | 1939. Users That Actively Request Confirmation Messages | Easy | 
+| | 1949. Strong Friendship | Medium | 
+| | 1951. All the Pairs With the Maximum Number of Common Followers | Medium | 
+| | 1965. Employees With Missing Information | Easy | 
+| | 1972. First and Last Call On the Same Day | Hard | 
+| | 1978. Employees Whose Manager Left the Company | Easy | 
+| | 1988. Find Cutoff Score for Each School | Medium | 
+| | 1990. Count the Number of Experiments | Medium | 
+| | 2004. The Number of Seniors and Juniors to Join the Company | Hard | 
+| | 2010. The Number of Seniors and Juniors to Join the Company II | Hard | 
+| | 2020. Number of Accounts That Did Not Stream | Medium | 
+| | 2026. Low-Quality Problems | Easy | 
+| | 2041. Accepted Candidates From the Interviews | Medium | 
+| | 2051. The Category of Each Member in the Store | Medium | 
+| | 2066. Account Balance | Medium | 
+| | 2072. The Winner University | Easy | 
+| | 2082. The Number of Rich Customers | Easy | 
+| | 2084. Drop Type 1 Orders for Customers With Type 0 Orders | Medium | 
+| | 2112. The Airport With the Most Traffic | Medium | 
+| | 2118. Build the Equation | Hard | 
+| | 2142. The Number of Passengers in Each Bus I | Medium | 
+| | 2153. The Number of Passengers in Each Bus II | Hard | 
+| | 2159. Order Two Columns Independently | Medium | 
+| | 2173. Longest Winning Streak | Hard | 
+| | 2175. The Change in Global Rankings | Medium | 
+| | 2199. Finding the Topic of Each Post | Hard | 
+| | 2205. The Number of Users That Are Eligible for Discount | Easy | 
+| | 2228. Users With Two Purchases Within Seven Days | Medium | 
+| | 2230. The Users That Are Eligible for Discount | Easy | 
+| | 2238. Number of Times a Driver Was a Passenger | Medium | 
