@@ -7,7 +7,14 @@ My LeetCode Badges (Database): <br>
 <br>
 <img width="300" alt="image" src="https://github.com/jinhongliu6688/leetcode-database-sql-pandas/assets/112588153/87296b85-8cf2-43de-99fa-03106f10b359"> ✅
 
-LeetCode Database questions progress of completion:
+My SQL/Database Certifications: <br>
+[Certified SQL Developer - W3 Schools](https://drive.google.com/file/d/14vMfc3zqg0IUQ8CogonNp4kZ_61QVrgQ/view?usp=drive_link) <br>
+[Learn SQL Course - Codecademy](https://drive.google.com/file/d/1Ls_zswsksS97vB8UgLv3pADdS9hfL9ha/view?usp=drive_link) <br>
+
+Database related project: <br>
+[Southern Sierra Flower Club Web App](https://github.com/jinhongliu6688/Southern_Sierra_Flower_Club_Web_App)
+
+LeetCode Database questions progress of completion (To view my MySQL solutions, feel free to search question number or question name inside the my-questions folder):
 | Solved   | Title                      | Difficulty |
 | -------- | -------------------------- | ---------- |
 | ✅ | 175. Combine Two Tables | Easy | | |
