@@ -182,7 +182,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1811. Find Interview Candidates | Medium | 
 | ✅ | 1831. Maximum Transaction Each Day | Medium | 
 | ✅ | 1841. League Statistics | Medium | 
-| | 1843. Suspicious Bank Accounts | Medium | 
+| ✅ | 1843. Suspicious Bank Accounts | Medium | 
 | | 1867. Orders With Maximum Quantity Above Average | Medium | 
 | | 1875. Group Employees of the Same Salary | Medium | 
 | ✅ | 1907. Count Salary Categories | Medium | 
