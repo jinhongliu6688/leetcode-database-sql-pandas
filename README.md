@@ -253,3 +253,14 @@
 | | 2994. Friday Purchases II | Hard | 
 | | 2995. Viewers Turned Streamers | Hard | 
 | | 3050. Pizza Toppings Cost Analysis | Medium | 
+| | 3051. Find Candidates for Data Scientist Position | Easy | 
+| | 3052. Maximize Items | Hard | 
+| | 3053. Classifying Triangles by Lengths | Easy | 
+| | 3054. Binary Tree Nodes | Medium | 
+| | 3055. Top Percentile Fraud | Medium | 
+| | 3056. Snaps Analysis | Medium | 
+| | 3057. Employees Project Allocation | Hard | 
+| | 3058. Friends With No Mutual Friends | Medium | 
+| | 3059. Find All Unique Email Domains | Easy | 
+| | 3060. User Activities within Time Bounds | Hard | 
+| | 3061. Calculate Trapping Rain Water | Hard | 
