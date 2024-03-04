@@ -1,4 +1,4 @@
-# leetcode-database-sql-pandas
+# My Solutions to LeetCode Database Problems (MySQL, Pandas)
 
 My LeetCode profile: https://leetcode.com/ivan6688/
 
@@ -11,10 +11,10 @@ My SQL/Database Certifications: <br>
 [Certified SQL Developer - W3 Schools](https://drive.google.com/file/d/14vMfc3zqg0IUQ8CogonNp4kZ_61QVrgQ/view?usp=drive_link) <br>
 [Learn SQL Course - Codecademy](https://drive.google.com/file/d/1Ls_zswsksS97vB8UgLv3pADdS9hfL9ha/view?usp=drive_link) <br>
 
-Database related project: <br>
+My Database related project: <br>
 [Southern Sierra Flower Club Web App](https://github.com/jinhongliu6688/Southern_Sierra_Flower_Club_Web_App)
 
-LeetCode Database questions progress of completion (To view my MySQL solutions, feel free to search question number or question name inside the my-questions folder):
+My LeetCode Database questions progress of completion (To view my MySQL solutions, feel free to search question number or question name inside the my-questions folder):
 | Solved   | Title                      | Difficulty |
 | -------- | -------------------------- | ---------- |
 | ✅ | 175. Combine Two Tables | Easy | 
