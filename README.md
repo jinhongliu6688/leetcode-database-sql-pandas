@@ -173,7 +173,7 @@ LeetCode Database questions progress of completion (To view my MySQL solutions, 
 | ✅ | 1549. The Most Recent Orders for Each Product | Medium | 
 | ✅ | 1555. Bank Account Summary | Medium | 
 | ✅ | 1596. The Most Frequently Ordered Products for Each Customer | Medium | 
-| | 1613. Find the Missing IDs | Medium | 
+| ✅ | 1613. Find the Missing IDs | Medium | 
 | ✅ | 1699. Number of Calls Between Two Persons | Medium | 
 | ✅ | 1709. Biggest Window Between Visits | Medium | 
 | | 1715. Count Apples and Oranges | Medium | 
