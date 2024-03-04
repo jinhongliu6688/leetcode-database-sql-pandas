@@ -153,43 +153,43 @@
 | ✅ | 1747. Leetflex Banned Accounts | Medium | 
 | ✅ | 1757. Recyclable and Low Fat Products | Easy | 
 | ✅ | 1767. Find the Subtasks That Did Not Execute | Hard | 
-| | 1777. Product's Price for Each Store | Easy | 
-| | 1783. Grand Slam Titles | Medium | 
-| | 1789. Primary Department for Each Employee | Easy | 
-| | 1795. Rearrange Products Table | Easy | 
-| | 1809. Ad-Free Sessions | Easy | 
+| ✅ | 1777. Product's Price for Each Store | Easy | 
+| ✅ | 1783. Grand Slam Titles | Medium | 
+| ✅ | 1789. Primary Department for Each Employee | Easy | 
+| ✅ | 1795. Rearrange Products Table | Easy | 
+| ✅ | 1809. Ad-Free Sessions | Easy | 
 | | 1811. Find Interview Candidates | Medium | 
-| | 1821. Find Customers With Positive Revenue this Year | Easy | 
-| | 1831. Maximum Transaction Each Day | Medium | 
+| ✅ | 1821. Find Customers With Positive Revenue this Year | Easy | 
+| ✅ | 1831. Maximum Transaction Each Day | Medium | 
 | | 1841. League Statistics | Medium | 
 | | 1843. Suspicious Bank Accounts | Medium | 
-| | 1853. Convert Date Format | Easy | 
+| ✅ | 1853. Convert Date Format | Easy | 
 | | 1867. Orders With Maximum Quantity Above Average | Medium | 
-| | 1873. Calculate Special Bonus | Easy | 
+| ✅ | 1873. Calculate Special Bonus | Easy | 
 | | 1875. Group Employees of the Same Salary | Medium | 
-| | 1890. The Latest Login in 2020 | Easy | 
+| ✅ | 1890. The Latest Login in 2020 | Easy | 
 | | 1892. Page Recommendations II | Hard | 
-| | 1907. Count Salary Categories | Medium | 
+| ✅ | 1907. Count Salary Categories | Medium | 
 | | 1917. Leetcodify Friends Recommendations | Hard | 
 | | 1919. Leetcodify Similar Friends | Hard | 
-| | 1934. Confirmation Rate | Medium | 
-| | 1939. Users That Actively Request Confirmation Messages | Easy | 
+| ✅ | 1934. Confirmation Rate | Medium | 
+| ✅ | 1939. Users That Actively Request Confirmation Messages | Easy | 
 | | 1949. Strong Friendship | Medium | 
 | | 1951. All the Pairs With the Maximum Number of Common Followers | Medium | 
-| | 1965. Employees With Missing Information | Easy | 
+| ✅ | 1965. Employees With Missing Information | Easy | 
 | | 1972. First and Last Call On the Same Day | Hard | 
-| | 1978. Employees Whose Manager Left the Company | Easy | 
+| ✅ | 1978. Employees Whose Manager Left the Company | Easy | 
 | | 1988. Find Cutoff Score for Each School | Medium | 
 | | 1990. Count the Number of Experiments | Medium | 
 | | 2004. The Number of Seniors and Juniors to Join the Company | Hard | 
 | | 2010. The Number of Seniors and Juniors to Join the Company II | Hard | 
 | | 2020. Number of Accounts That Did Not Stream | Medium | 
-| | 2026. Low-Quality Problems | Easy | 
+| ✅ | 2026. Low-Quality Problems | Easy | 
 | | 2041. Accepted Candidates From the Interviews | Medium | 
 | | 2051. The Category of Each Member in the Store | Medium | 
 | | 2066. Account Balance | Medium | 
-| | 2072. The Winner University | Easy | 
-| | 2082. The Number of Rich Customers | Easy | 
+| ✅ | 2072. The Winner University | Easy | 
+| ✅ | 2082. The Number of Rich Customers | Easy | 
 | | 2084. Drop Type 1 Orders for Customers With Type 0 Orders | Medium | 
 | | 2112. The Airport With the Most Traffic | Medium | 
 | | 2118. Build the Equation | Hard | 
@@ -199,9 +199,9 @@
 | | 2173. Longest Winning Streak | Hard | 
 | | 2175. The Change in Global Rankings | Medium | 
 | | 2199. Finding the Topic of Each Post | Hard | 
-| | 2205. The Number of Users That Are Eligible for Discount | Easy | 
+| ✅ | 2205. The Number of Users That Are Eligible for Discount | Easy | 
 | | 2228. Users With Two Purchases Within Seven Days | Medium | 
-| | 2230. The Users That Are Eligible for Discount | Easy | 
+| ✅ | 2230. The Users That Are Eligible for Discount | Easy | 
 | | 2238. Number of Times a Driver Was a Passenger | Medium | 
 | | 2252. Dynamic Pivoting of a Table | Hard | 
 | | 2253. Dynamic Unpivoting of a Table | Hard | 
@@ -210,23 +210,23 @@
 | | 2308. Arrange Table by Gender | Medium | 
 | | 2314. The First Day of the Maximum Recorded Degree in Each City | Medium | 
 | | 2324. Product Sales Analysis IV | Medium | 
-| | 2329. Product Sales Analysis V | Easy | 
-| | 2339. All the Matches of the League | Easy | 
+| ✅ | 2329. Product Sales Analysis V | Easy | 
+| ✅ | 2339. All the Matches of the League | Easy | 
 | | 2346. Compute the Rank as a Percentage | Medium | 
-| | 2356. Number of Unique Subjects Taught by Each Teacher | Easy | 
+| ✅ | 2356. Number of Unique Subjects Taught by Each Teacher | Easy | 
 | | 2362. Generate the Invoice | Hard | 
 | | 2372. Calculate the Influence of Each Salesperson | Medium | 
-| | 2377. Sort the Olympic Table | Easy | 
+| ✅ | 2377. Sort the Olympic Table | Easy | 
 | | 2388. Change Null Values in a Table to the Previous Value | Medium | 
 | | 2394. Employees With Deductions | Medium | 
 | | 2474. Customers With Strictly Increasing Purchases | Hard | 
-| | 2480. Form a Chemical Bond | Easy | 
+| ✅ | 2480. Form a Chemical Bond | Easy | 
 | | 2494. Merge Overlapping Events in the Same Hall | Hard | 
-| | 2504. Concatenate the Name and the Profession | Easy | 
-| | 2668. Find Latest Salaries | Easy | 
-| | 2669. Count Artist Occurrences On Spotify Ranking List | Easy | 
+| ✅ | 2504. Concatenate the Name and the Profession | Easy | 
+| ✅ | 2668. Find Latest Salaries | Easy | 
+| ✅ | 2669. Count Artist Occurrences On Spotify Ranking List | Easy | 
 | | 2686. Immediate Food Delivery III | Medium | 
-| | 2687. Bikes Last Time Used | Easy | 
+| ✅ | 2687. Bikes Last Time Used | Easy | 
 | | 2688. Find Active Users | Medium | 
 | | 2701. Consecutive Transactions with Increasing Amounts | Hard | 
 | | 2720. Popularity Percentage | Hard | 
@@ -235,32 +235,32 @@
 | | 2783. Flight Occupancy and Waitlist Analysis | Medium | 
 | | 2793. Status of Flight Tickets | Hard | 
 | | 2820. Election Results | Medium | 
-| | 2837. Total Traveled Distance | Easy | 
-| | 2853. Highest Salaries Difference | Easy | 
+| ✅ | 2837. Total Traveled Distance | Easy | 
+| ✅ | 2853. Highest Salaries Difference | Easy | 
 | | 2854. Rolling Average Steps | Medium | 
 | | 2893. Calculate Orders Within Each Interval | Medium | 
 | | 2922. Market Analysis III | Medium | 
 | | 2978. Symmetric Coordinates | Medium | 
 | | 2984. Find Peak Calling Hours for Each City | Medium | 
-| | 2985. Calculate Compressed Mean | Easy | 
+| ✅ | 2985. Calculate Compressed Mean | Easy | 
 | | 2986. Find Third Transaction | Medium | 
-| | 2987. Find Expensive Cities | Easy | 
+| ✅ | 2987. Find Expensive Cities | Easy | 
 | | 2988. Manager of the Largest Department | Medium | 
 | | 2989. Class Performance | Medium | 
-| | 2990. Loan Types | Easy | 
+| ✅ | 2990. Loan Types | Easy | 
 | | 2991. Top Three Wineries | Hard | 
 | | 2993. Friday Purchases I | Medium | 
 | | 2994. Friday Purchases II | Hard | 
 | | 2995. Viewers Turned Streamers | Hard | 
 | | 3050. Pizza Toppings Cost Analysis | Medium | 
-| | 3051. Find Candidates for Data Scientist Position | Easy | 
+| ✅ | 3051. Find Candidates for Data Scientist Position | Easy | 
 | | 3052. Maximize Items | Hard | 
-| | 3053. Classifying Triangles by Lengths | Easy | 
+| ✅ | 3053. Classifying Triangles by Lengths | Easy | 
 | | 3054. Binary Tree Nodes | Medium | 
 | | 3055. Top Percentile Fraud | Medium | 
 | | 3056. Snaps Analysis | Medium | 
 | | 3057. Employees Project Allocation | Hard | 
 | | 3058. Friends With No Mutual Friends | Medium | 
-| | 3059. Find All Unique Email Domains | Easy | 
+| ✅ | 3059. Find All Unique Email Domains | Easy | 
 | | 3060. User Activities within Time Bounds | Hard | 
 | | 3061. Calculate Trapping Rain Water | Hard | 
