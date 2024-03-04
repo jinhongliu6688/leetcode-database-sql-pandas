@@ -179,7 +179,7 @@ LeetCode Database questions progress of completion (To view my MySQL solutions, 
 | ✅ | 1715. Count Apples and Oranges | Medium | 
 | ✅ | 1747. Leetflex Banned Accounts | Medium | 
 | ✅ | 1783. Grand Slam Titles | Medium | 
-| | 1811. Find Interview Candidates | Medium | 
+| ✅ | 1811. Find Interview Candidates | Medium | 
 | ✅ | 1831. Maximum Transaction Each Day | Medium | 
 | | 1841. League Statistics | Medium | 
 | | 1843. Suspicious Bank Accounts | Medium | 
