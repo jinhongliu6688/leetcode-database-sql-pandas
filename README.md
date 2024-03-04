@@ -187,7 +187,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1875. Group Employees of the Same Salary | Medium | 
 | ✅ | 1907. Count Salary Categories | Medium | 
 | ✅ | 1934. Confirmation Rate | Medium | 
-| | 1949. Strong Friendship | Medium | 
+| ✅ | 1949. Strong Friendship | Medium | 
 | | 1951. All the Pairs With the Maximum Number of Common Followers | Medium | 
 | | 1988. Find Cutoff Score for Each School | Medium | 
 | | 1990. Count the Number of Experiments | Medium | 
