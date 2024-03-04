@@ -203,3 +203,53 @@
 | | 2228. Users With Two Purchases Within Seven Days | Medium | 
 | | 2230. The Users That Are Eligible for Discount | Easy | 
 | | 2238. Number of Times a Driver Was a Passenger | Medium | 
+| | 2252. Dynamic Pivoting of a Table | Hard | 
+| | 2253. Dynamic Unpivoting of a Table | Hard | 
+| | 2292. Products With Three or More Orders in Two Consecutive Years | Medium | 
+| | 2298. Tasks Count in the Weekend | Medium | 
+| | 2308. Arrange Table by Gender | Medium | 
+| | 2314. The First Day of the Maximum Recorded Degree in Each City | Medium | 
+| | 2324. Product Sales Analysis IV | Medium | 
+| | 2329. Product Sales Analysis V | Easy | 
+| | 2339. All the Matches of the League | Easy | 
+| | 2346. Compute the Rank as a Percentage | Medium | 
+| | 2356. Number of Unique Subjects Taught by Each Teacher | Easy | 
+| | 2362. Generate the Invoice | Hard | 
+| | 2372. Calculate the Influence of Each Salesperson | Medium | 
+| | 2377. Sort the Olympic Table | Easy | 
+| | 2388. Change Null Values in a Table to the Previous Value | Medium | 
+| | 2394. Employees With Deductions | Medium | 
+| | 2474. Customers With Strictly Increasing Purchases | Hard | 
+| | 2480. Form a Chemical Bond | Easy | 
+| | 2494. Merge Overlapping Events in the Same Hall | Hard | 
+| | 2504. Concatenate the Name and the Profession | Easy | 
+| | 2668. Find Latest Salaries | Easy | 
+| | 2669. Count Artist Occurrences On Spotify Ranking List | Easy | 
+| | 2686. Immediate Food Delivery III | Medium | 
+| | 2687. Bikes Last Time Used | Easy | 
+| | 2688. Find Active Users | Medium | 
+| | 2701. Consecutive Transactions with Increasing Amounts | Hard | 
+| | 2720. Popularity Percentage | Hard | 
+| | 2738. Count Occurrences in Text | Medium | 
+| | 2752. Customers with Maximum Number of Transactions on Consecutive Days | Hard | 
+| | 2783. Flight Occupancy and Waitlist Analysis | Medium | 
+| | 2793. Status of Flight Tickets | Hard | 
+| | 2820. Election Results | Medium | 
+| | 2837. Total Traveled Distance | Easy | 
+| | 2853. Highest Salaries Difference | Easy | 
+| | 2854. Rolling Average Steps | Medium | 
+| | 2893. Calculate Orders Within Each Interval | Medium | 
+| | 2922. Market Analysis III | Medium | 
+| | 2978. Symmetric Coordinates | Medium | 
+| | 2984. Find Peak Calling Hours for Each City | Medium | 
+| | 2985. Calculate Compressed Mean | Easy | 
+| | 2986. Find Third Transaction | Medium | 
+| | 2987. Find Expensive Cities | Easy | 
+| | 2988. Manager of the Largest Department | Medium | 
+| | 2989. Class Performance | Medium | 
+| | 2990. Loan Types | Easy | 
+| | 2991. Top Three Wineries | Hard | 
+| | 2993. Friday Purchases I | Medium | 
+| | 2994. Friday Purchases II | Hard | 
+| | 2995. Viewers Turned Streamers | Hard | 
+| | 3050. Pizza Toppings Cost Analysis | Medium | 
