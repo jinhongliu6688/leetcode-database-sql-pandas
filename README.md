@@ -171,7 +171,7 @@ LeetCode Database questions progress of completion (To view my MySQL solutions, 
 | ✅ | 1501. Countries You Can Safely Invest In | Medium | 
 | ✅ | 1532. The Most Recent Three Orders | Medium | 
 | ✅ | 1549. The Most Recent Orders for Each Product | Medium | 
-| | 1555. Bank Account Summary | Medium | 
+| ✅ | 1555. Bank Account Summary | Medium | 
 | ✅ | 1596. The Most Frequently Ordered Products for Each Customer | Medium | 
 | | 1613. Find the Missing IDs | Medium | 
 | ✅ | 1699. Number of Calls Between Two Persons | Medium | 
