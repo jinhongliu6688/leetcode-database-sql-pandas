@@ -1,8 +1,8 @@
 # leetcode-database-sql-pandas
 
 
-| Solved   | Title                      | Difficulty | Premium | My solution |
-| -------- | -------------------------- | ---------- | ------- | ------------|
+| Solved   | Title                      | Difficulty |
+| -------- | -------------------------- | ---------- |
 | | 175. Combine Two Tables | Easy | | |
 | | 176. Second Highest Salary | Medium | | |
 | | 177. Nth Highest Salary | Medium | | |
@@ -53,3 +53,53 @@
 | | 1050. Actors and Directors Who Cooperated At Least Three Times | Easy | | |
 | | 1068. Product Sales Analysis I | Easy | | |
 | | 1069. Product Sales Analysis II | Easy | | |
+| | 1070. Product Sales Analysis III | Medium |
+| | 1075. Project Employees I | Easy | 
+| | 1076. Project Employees II | Easy | 
+| | 1077. Project Employees III | Medium | 
+| | 1082. Sales Analysis I | Easy | 
+| | 1083. Sales Analysis II | Easy | 
+| | 1084. Sales Analysis III | Easy | 
+| | 1097. Game Play Analysis V | Hard | 
+| | 1098. Unpopular Books | Medium | 
+| | 1107. New Users Daily Count | Medium | 
+| | 1112. Highest Grade For Each Student | Medium | 
+| | 1113. Reported Posts | Easy | 
+| | 1126. Active Businesses | Medium | 
+| | 1127. User Purchase Platform | Hard | 
+| | 1132. Reported Posts II | Medium | 
+| | 1141. User Activity for the Past 30 Days I | Easy | 
+| | 1142. User Activity for the Past 30 Days II | Easy | 
+| | 1148. Article Views I | Easy | 
+| | 1149. Article Views II | Medium | 
+| | 1158. Market Analysis I | Medium | 
+| | 1159. Market Analysis II | Hard | 
+| | 1164. Product Price at a Given Date | Medium | 
+| | 1173. Immediate Food Delivery I | Easy | 
+| | 1174. Immediate Food Delivery II | Medium | 
+| | 1179. Reformat Department Table | Easy | 
+| | 1193. Monthly Transactions I | Medium | 
+| | 1194. Tournament Winners | Hard | 
+| | 1204. Last Person to Fit in the Bus | Medium | 
+| | 1205. Monthly Transactions II | Medium | 
+| | 1211. Queries Quality and Percentage | Easy | 
+| | 1212. Team Scores in Football Tournament | Medium | 
+| | 1225. Report Contiguous Dates | Hard | 
+| | 1241. Number of Comments per Post | Easy | 
+| | 1251. Average Selling Price | Easy | 
+| | 1264. Page Recommendations | Medium | 
+| | 1270. All People Report to the Given Manager | Medium | 
+| | 1280. Students and Examinations | Easy | 
+| | 1285. Find the Start and End Number of Continuous Ranges | Medium | 
+| | 1294. Weather Type in Each Country | Easy | 
+| | 1303. Find the Team Size | Easy | 
+| | 1308. Running Total for Different Genders | Medium | 
+| | 1321. Restaurant Growth | Medium | 
+| | 1322. Ads Performance | Easy | 
+| | 1327. List the Products Ordered in a Period | Easy | 
+| | 1336. Number of Transactions per Visit | Hard | 
+| | 1341. Movie Rating | Medium | 
+| | 1350. Students With Invalid Departments | Easy | 
+| | 1355. Activity Participants | Medium | 
+| | 1364. Number of Trusted Contacts of a Customer | Medium | 
+| | 1369. Get the Second Most Recent Activity | Hard | 
