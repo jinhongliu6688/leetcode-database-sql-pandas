@@ -191,7 +191,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1951. All the Pairs With the Maximum Number of Common Followers | Medium | 
 | ✅ | 1988. Find Cutoff Score for Each School | Medium | 
 | ✅ | 1990. Count the Number of Experiments | Medium | 
-| | 2020. Number of Accounts That Did Not Stream | Medium | 
+| ✅ | 2020. Number of Accounts That Did Not Stream | Medium | 
 | | 2041. Accepted Candidates From the Interviews | Medium | 
 | | 2051. The Category of Each Member in the Store | Medium | 
 | | 2066. Account Balance | Medium | 
