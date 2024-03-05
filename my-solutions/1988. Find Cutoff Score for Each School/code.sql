@@ -25,3 +25,17 @@ ON
     c.max_student = e.student_count
 GROUP BY
     school_id
+
+# Write your MySQL query statement below
+
+SELECT
+    school_id,
+    IFNULL(MIN(score), -1) score
+FROM
+    Schools s
+LEFT JOIN
+    Exam e
+ON
+    s.capacity >= e.student_count
+GROUP BY
+    school_id
