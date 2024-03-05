@@ -196,7 +196,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2051. The Category of Each Member in the Store | Medium | 
 | ✅ | 2066. Account Balance | Medium | 
 | ✅ | 2084. Drop Type 1 Orders for Customers With Type 0 Orders | Medium | 
-| | 2112. The Airport With the Most Traffic | Medium | 
+| ✅ | 2112. The Airport With the Most Traffic | Medium | 
 | | 2142. The Number of Passengers in Each Bus I | Medium | 
 | | 2159. Order Two Columns Independently | Medium | 
 | | 2175. The Change in Global Rankings | Medium | 
