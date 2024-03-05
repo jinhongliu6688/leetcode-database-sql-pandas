@@ -29,3 +29,30 @@ FROM(
 ) temp_3
 WHERE
     ranking = 1
+
+# Write your MySQL query statement below
+
+SELECT
+    airport_id
+FROM(
+    SELECT
+        airport_id,
+        rank() over(order by SUM(flights_count) desc) ranking
+    FROM (
+        SELECT
+            departure_airport airport_id,
+            flights_count
+        FROM
+            Flights
+        UNION ALL
+        SELECT
+            arrival_airport airport_id,
+            flights_count
+        FROM
+            Flights
+    ) temp_1
+    GROUP BY
+        airport_id
+) temp_2
+WHERE
+    ranking = 1
