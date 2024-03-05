@@ -12,3 +12,12 @@ FROM (
     FROM
         Transactions
 ) temp
+
+# Write your MySQL query statement below
+
+SELECT
+    account_id,
+    day,
+    SUM(IF(type = "Withdraw", -amount, amount)) over(partition by account_id order by day) balance
+FROM
+    Transactions
