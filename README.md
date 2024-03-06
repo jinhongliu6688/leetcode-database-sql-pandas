@@ -200,7 +200,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2142. The Number of Passengers in Each Bus I | Medium | 
 | ✅ | 2159. Order Two Columns Independently | Medium | 
 | ✅ | 2175. The Change in Global Rankings | Medium | 
-| | 2228. Users With Two Purchases Within Seven Days | Medium | 
+| ✅ | 2228. Users With Two Purchases Within Seven Days | Medium | 
 | | 2238. Number of Times a Driver Was a Passenger | Medium | 
 | | 2292. Products With Three or More Orders in Two Consecutive Years | Medium | 
 | | 2298. Tasks Count in the Weekend | Medium | 
