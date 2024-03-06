@@ -202,7 +202,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2175. The Change in Global Rankings | Medium | 
 | ✅ | 2228. Users With Two Purchases Within Seven Days | Medium | 
 | ✅ | 2238. Number of Times a Driver Was a Passenger | Medium | 
-| | 2292. Products With Three or More Orders in Two Consecutive Years | Medium | 
+| ✅ | 2292. Products With Three or More Orders in Two Consecutive Years | Medium | 
 | | 2298. Tasks Count in the Weekend | Medium | 
 | | 2308. Arrange Table by Gender | Medium | 
 | | 2314. The First Day of the Maximum Recorded Degree in Each City | Medium | 
