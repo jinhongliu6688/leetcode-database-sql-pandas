@@ -209,7 +209,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2324. Product Sales Analysis IV | Medium | 
 | ✅ | 2346. Compute the Rank as a Percentage | Medium | 
 | ✅ | 2372. Calculate the Influence of Each Salesperson | Medium | 
-| | 2388. Change Null Values in a Table to the Previous Value | Medium | 
+| ✅ | 2388. Change Null Values in a Table to the Previous Value | Medium | 
 | | 2394. Employees With Deductions | Medium | 
 | | 2686. Immediate Food Delivery III | Medium | 
 | | 2688. Find Active Users | Medium | 
