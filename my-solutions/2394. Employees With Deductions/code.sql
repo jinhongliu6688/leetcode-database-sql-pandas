@@ -24,4 +24,4 @@ USING
     (employee_id)
 WHERE
     needed_hours > work_length OR
-    work_length IS NULL
+    work_length IS NULL;
