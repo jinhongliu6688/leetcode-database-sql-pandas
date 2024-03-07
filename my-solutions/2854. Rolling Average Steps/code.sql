@@ -16,3 +16,27 @@ WHERE
 ORDER BY
     1,
     2;
+
+# Write your MySQL query statement below
+
+SELECT
+    *
+FROM (
+    SELECT
+        user_id,
+        DATE_ADD(steps_date, INTERVAL 1 DAY) steps_date,
+        ROUND(IF(
+            DATEDIFF(steps_date, LAG(steps_date) OVER (PARTITION BY user_id ORDER BY steps_date)) = 1 AND
+            DATEDIFF(LEAD(steps_date) OVER (PARTITION BY user_id ORDER BY steps_date), steps_date) = 1,
+            (steps_count + LAG(steps_count) OVER (PARTITION BY user_id ORDER BY steps_date) + 
+            LEAD(steps_count) OVER (PARTITION BY user_id ORDER BY steps_date)) / 3,
+            -1
+        ), 2) AS rolling_average
+    FROM
+        Steps
+) temp
+WHERE
+    rolling_average <> -1
+ORDER BY
+    user_id,
+    steps_date;
