@@ -216,7 +216,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2738. Count Occurrences in Text | Medium | 
 | ✅ | 2783. Flight Occupancy and Waitlist Analysis | Medium | 
 | ✅ | 2820. Election Results | Medium | 
-| | 2854. Rolling Average Steps | Medium | 
+| ✅ | 2854. Rolling Average Steps | Medium | 
 | | 2893. Calculate Orders Within Each Interval | Medium | 
 | | 2922. Market Analysis III | Medium | 
 | | 2978. Symmetric Coordinates | Medium | 
