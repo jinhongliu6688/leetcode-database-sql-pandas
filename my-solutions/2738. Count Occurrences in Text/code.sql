@@ -12,7 +12,7 @@ SELECT
     "bear" word,
     SUM(IF(content LIKE "% bear %", 1, 0)) count
 FROM
-    Files
+    Files;
 
 # Write your MySQL query statement below
 
@@ -32,4 +32,4 @@ SELECT
 FROM
     Files
 WHERE
-    content LIKE "% bear %"
+    content LIKE "% bear %";
