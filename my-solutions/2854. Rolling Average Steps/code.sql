@@ -40,3 +40,27 @@ WHERE
 ORDER BY
     user_id,
     steps_date;
+
+# Write your MySQL query statement below
+
+SELECT
+    *
+FROM (
+    SELECT
+        user_id,
+        steps_date,
+        ROUND(IF(
+            DATEDIFF(steps_date, LAG(steps_date) OVER (PARTITION BY user_id ORDER BY steps_date)) = 1 AND
+            DATEDIFF(steps_date, LAG(steps_date, 2) OVER (PARTITION BY user_id ORDER BY steps_date)) = 2,
+            (steps_count + LAG(steps_count) OVER (PARTITION BY user_id ORDER BY steps_date) + 
+            LAG(steps_count, 2) OVER (PARTITION BY user_id ORDER BY steps_date)) / 3,
+            -1
+        ), 2) AS rolling_average
+    FROM
+        Steps
+) temp
+WHERE
+    rolling_average <> -1
+ORDER BY
+    user_id,
+    steps_date;
