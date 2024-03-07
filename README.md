@@ -212,7 +212,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2388. Change Null Values in a Table to the Previous Value | Medium | 
 | ✅ | 2394. Employees With Deductions | Medium | 
 | ✅ | 2686. Immediate Food Delivery III | Medium | 
-| | 2688. Find Active Users | Medium | 
+| ✅ | 2688. Find Active Users | Medium | 
 | | 2738. Count Occurrences in Text | Medium | 
 | | 2783. Flight Occupancy and Waitlist Analysis | Medium | 
 | | 2820. Election Results | Medium | 
