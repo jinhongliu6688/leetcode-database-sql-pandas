@@ -64,3 +64,37 @@ WHERE
 ORDER BY
     user_id,
     steps_date;
+
+# Write your MySQL query statement below
+# Sample solution 1
+
+select user_id, steps_date, rolling_average
+from (
+    select user_id, steps_date,
+    round(avg(steps_count) over (partition by user_id order by steps_date rows between 2 preceding and current row), 2) as rolling_average,
+    lag(steps_date, 2) over (partition by user_id order by steps_date) as two_dates_before
+    from steps
+) tmp
+where datediff(steps_date, two_dates_before) = 2
+order by 1, 2;
+
+# Write your MySQL query statement below
+# Sample solution 2
+
+with a as (
+select user_id, steps_date, 
+  avg(steps_count) over (
+      partition by user_id
+      order by steps_date 
+      range between interval 2 day preceding and current row
+  ) as rolling_average, 
+  count(1) over (
+      partition by user_id
+      order by steps_date 
+      range between interval 2 day preceding and current row        
+  ) as cnt_3day
+from steps
+)
+select user_id, steps_date, round(rolling_average, 2) as rolling_average
+from a
+where cnt_3day = 3;
