@@ -220,7 +220,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2893. Calculate Orders Within Each Interval | Medium | 
 | ✅ | 2922. Market Analysis III | Medium | 
 | ✅ | 2978. Symmetric Coordinates | Medium | 
-| | 3050. Pizza Toppings Cost Analysis | Medium | 
+| ✅ | 3050. Pizza Toppings Cost Analysis | Medium | 
 | | 3054. Binary Tree Nodes | Medium | 
 | | 2984. Find Peak Calling Hours for Each City | Medium | 
 | | 2986. Find Third Transaction | Medium | 
