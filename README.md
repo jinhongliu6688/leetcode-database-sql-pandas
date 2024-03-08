@@ -228,7 +228,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 2989. Class Performance | Medium | 
 | ✅ | 2993. Friday Purchases I | Medium | 
 | ✅ | 3055. Top Percentile Fraud | Medium | 
-| | 3056. Snaps Analysis | Medium | 
+| ✅ | 3056. Snaps Analysis | Medium | 
 | | 3058. Friends With No Mutual Friends | Medium | 
 | ✅ | 185. Department Top Three Salaries | Hard | 
 | | 262. Trips and Users | Hard | 
