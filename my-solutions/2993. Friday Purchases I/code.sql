@@ -12,3 +12,18 @@ GROUP BY
     purchase_date
 ORDER BY
     1;
+
+# Write your MySQL query statement below
+
+SELECT
+    week(purchase_date) - week("2023-11-01") + 1 week_of_month,
+    MAX(purchase_date) purchase_date,
+    SUM(amount_spend) total_amount
+FROM
+    Purchases
+WHERE
+    weekday(purchase_date) = 4
+GROUP BY
+    purchase_date
+ORDER BY
+    1;
