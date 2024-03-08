@@ -224,10 +224,10 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 3054. Binary Tree Nodes | Medium | 
 | ✅ | 2984. Find Peak Calling Hours for Each City | Medium | 
 | ✅ | 2986. Find Third Transaction | Medium | 
-| | 2988. Manager of the Largest Department | Medium | 
-| | 2989. Class Performance | Medium | 
-| | 2993. Friday Purchases I | Medium | 
-| | 3055. Top Percentile Fraud | Medium | 
+| ✅ | 2988. Manager of the Largest Department | Medium | 
+| ✅ | 2989. Class Performance | Medium | 
+| ✅ | 2993. Friday Purchases I | Medium | 
+| ✅ | 3055. Top Percentile Fraud | Medium | 
 | | 3056. Snaps Analysis | Medium | 
 | | 3058. Friends With No Mutual Friends | Medium | 
 | ✅ | 185. Department Top Three Salaries | Hard | 
