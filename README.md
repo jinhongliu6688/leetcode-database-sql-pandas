@@ -234,7 +234,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 262. Trips and Users | Hard | 
 | ✅ | 569. Median Employee Salary | Hard | 
 | ✅ | 571. Find Median Given Frequency of Numbers | Hard | 
-| | 579. Find Cumulative Salary of an Employee | Hard | 
+| ✅ | 579. Find Cumulative Salary of an Employee | Hard | 
 | | 601. Human Traffic of Stadium | Hard | 
 | | 615. Average Salary: Departments VS Company | Hard | 
 | | 618. Students Report By Geography | Hard | 
