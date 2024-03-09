@@ -232,7 +232,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 3058. Friends With No Mutual Friends | Medium | 
 | ✅ | 185. Department Top Three Salaries | Hard | 
 | ✅ | 262. Trips and Users | Hard | 
-| | 569. Median Employee Salary | Hard | 
+| ✅ | 569. Median Employee Salary | Hard | 
 | | 571. Find Median Given Frequency of Numbers | Hard | 
 | | 579. Find Cumulative Salary of an Employee | Hard | 
 | | 601. Human Traffic of Stadium | Hard | 
