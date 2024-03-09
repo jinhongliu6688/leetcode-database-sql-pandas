@@ -43,3 +43,10 @@ FROM (
 ) temp_2
 WHERE
     tag = 1
+
+# Sample solution
+    
+select avg(n.Number) median
+from Numbers n
+where n.Frequency >= abs((select sum(Frequency) from Numbers where Number<=n.Number) -
+                         (select sum(Frequency) from Numbers where Number>=n.Number))
