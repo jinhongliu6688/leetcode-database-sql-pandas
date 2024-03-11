@@ -240,7 +240,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 618. Students Report By Geography | Hard | 
 | ✅ | 1097. Game Play Analysis V | Hard | 
 | ✅ | 1127. User Purchase Platform | Hard | 
-| | 1159. Market Analysis II | Hard | 
+| ✅ | 1159. Market Analysis II | Hard | 
 | | 1194. Tournament Winners | Hard | 
 | ✅ | 1225. Report Contiguous Dates | Hard | 
 | | 1336. Number of Transactions per Visit | Hard | 
