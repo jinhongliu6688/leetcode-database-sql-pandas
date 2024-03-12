@@ -243,7 +243,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1159. Market Analysis II | Hard | 
 | ✅ | 1194. Tournament Winners | Hard | 
 | ✅ | 1225. Report Contiguous Dates | Hard | 
-| | 1336. Number of Transactions per Visit | Hard | 
+| ✅ | 1336. Number of Transactions per Visit | Hard | 
 | | 1369. Get the Second Most Recent Activity | Hard | 
 | | 1384. Total Sales Amount by Year | Hard | 
 | ✅ | 1412. Find the Quiet Students in All Exams | Hard | 
