@@ -14,7 +14,7 @@ My SQL/Database Certifications: <br>
 [HackerRank SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/c0339ce4b5df) <br>
 [HackerRank SQL (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/bacc8927f5d0) <br>
 
-My Database related project: <br>
+My SQL/Database related project: <br>
 [Southern Sierra Flower Club Web App](https://github.com/jinhongliu6688/Southern_Sierra_Flower_Club_Web_App)
 
 My LeetCode Database questions progress of completion (To view my MySQL solutions, feel free to search question number or question name inside the my-questions folder):
