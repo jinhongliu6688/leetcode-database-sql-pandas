@@ -12,7 +12,7 @@ My SQL/Database Certifications: <br>
 [Learn SQL Course - Codecademy](https://drive.google.com/file/d/1Ls_zswsksS97vB8UgLv3pADdS9hfL9ha/view?usp=drive_link) <br>
 [HackerRank SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/89c88d0acef7) <br>
 [HackerRank SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/c0339ce4b5df) <br>
-[HackerRank SQL (Basic) Certificate](https://www.hackerrank.com/certificates/e7a3df728610) <br>
+[HackerRank SQL (Basic) Certificate](https://www.hackerrank.com/certificates/bacc8927f5d0) <br>
 
 My SQL/Database related project: <br>
 [Southern Sierra Flower Club Web App](https://github.com/jinhongliu6688/Southern_Sierra_Flower_Club_Web_App)
