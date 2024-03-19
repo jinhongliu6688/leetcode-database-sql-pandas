@@ -251,8 +251,8 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1369. Get the Second Most Recent Activity | Hard | 
 | ✅ | 1384. Total Sales Amount by Year | Hard | 
 | ✅ | 1412. Find the Quiet Students in All Exams | Hard | 
-| | 1479. Sales by Day of the Week | Hard | 
-| | 1635. Hopper Company Queries I | Hard | 
+| ✅ | 1479. Sales by Day of the Week | Hard | 
+| ✅ | 1635. Hopper Company Queries I | Hard | 
 | | 1645. Hopper Company Queries II | Hard | 
 | | 1651. Hopper Company Queries III | Hard | 
 | ✅ | 1767. Find the Subtasks That Did Not Execute | Hard | 
