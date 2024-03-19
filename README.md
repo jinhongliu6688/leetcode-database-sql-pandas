@@ -233,6 +233,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 3055. Top Percentile Fraud | Medium | 
 | ✅ | 3056. Snaps Analysis | Medium | 
 | ✅ | 3058. Friends With No Mutual Friends | Medium | 
+| ✅ | 3087. Find Trending Hashtags | Medium | 
 | ✅ | 185. Department Top Three Salaries | Hard | 
 | ✅ | 262. Trips and Users | Hard | 
 | ✅ | 569. Median Employee Salary | Hard | 
