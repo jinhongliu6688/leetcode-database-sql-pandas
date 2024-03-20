@@ -253,7 +253,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1412. Find the Quiet Students in All Exams | Hard | 
 | ✅ | 1479. Sales by Day of the Week | Hard | 
 | ✅ | 1635. Hopper Company Queries I | Hard | 
-| | 1645. Hopper Company Queries II | Hard | 
+| ✅ | 1645. Hopper Company Queries II | Hard | 
 | | 1651. Hopper Company Queries III | Hard | 
 | ✅ | 1767. Find the Subtasks That Did Not Execute | Hard | 
 | | 1892. Page Recommendations II | Hard | 
