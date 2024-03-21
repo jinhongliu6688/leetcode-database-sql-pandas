@@ -256,7 +256,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1645. Hopper Company Queries II | Hard | 
 | ✅ | 1651. Hopper Company Queries III | Hard | 
 | ✅ | 1767. Find the Subtasks That Did Not Execute | Hard | 
-| | 1892. Page Recommendations II | Hard | 
+| ✅ | 1892. Page Recommendations II | Hard | 
 | | 1917. Leetcodify Friends Recommendations | Hard | 
 | | 1919. Leetcodify Similar Friends | Hard | 
 | | 1972. First and Last Call On the Same Day | Hard | 
