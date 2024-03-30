@@ -262,7 +262,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | ✅ | 1972. First and Last Call On the Same Day | Hard | 
 | ✅ | 2004. The Number of Seniors and Juniors to Join the Company | Hard | 
 | ✅ | 2010. The Number of Seniors and Juniors to Join the Company II | Hard | 
-| | 2118. Build the Equation | Hard | 
+| ✅ | 2118. Build the Equation | Hard | 
 | | 2153. The Number of Passengers in Each Bus II | Hard | 
 | | 2173. Longest Winning Streak | Hard | 
 | | 2199. Finding the Topic of Each Post | Hard | 
