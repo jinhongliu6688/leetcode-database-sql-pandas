@@ -268,7 +268,7 @@ My LeetCode Database questions progress of completion (To view my MySQL solution
 | | 2199. Finding the Topic of Each Post | Hard | 
 | | 2252. Dynamic Pivoting of a Table | Hard | 
 | | 2253. Dynamic Unpivoting of a Table | Hard | 
-| | 2362. Generate the Invoice | Hard | 
+| ✅ | 2362. Generate the Invoice | Hard | 
 | | 2474. Customers With Strictly Increasing Purchases | Hard | 
 | | 2494. Merge Overlapping Events in the Same Hall | Hard | 
 | | 2752. Customers with Maximum Number of Transactions on Consecutive Days | Hard | 
