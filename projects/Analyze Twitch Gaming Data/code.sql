@@ -170,3 +170,15 @@ ON
   s.device_id = c.device_id
 LIMIT
   20;
+
+-- 12
+
+SELECT
+  *,
+  COUNT(*) OVER(PARTITION BY s.game) count_val
+FROM
+  stream s
+INNER JOIn
+  chat c
+ON
+  s.device_id = c.device_id;
